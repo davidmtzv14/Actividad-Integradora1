@@ -24,8 +24,8 @@ Para facilitar el trabajo colaborativo se utilizó **Google Colab**.
 Para cualquier duda se puede contactar a cualquiera de los contribuidores por el correo institucional.
 
 ## Contribuidores
-Diego Martínez A01176489
-David Martínez A00820087
-Luis Felipe Miranda A00820799
-Isamiri A00820784
-Rodolfo Ramírez A00820906
+- Diego Martínez A01176489
+- David Martínez A00820087
+- Luis Felipe Miranda A00820799
+- Isamiri A00820784
+- Rodolfo Ramírez A00820906
